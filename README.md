@@ -44,5 +44,6 @@ Source: https://doi.org/10.17632/5cxyb5fp4f.2
 ```text
 insurance-claims-analysis/
 ├── README.md
+├── requirements.txt
 └── insurance_claims_analysis.ipynb
 ```
