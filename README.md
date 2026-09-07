@@ -16,6 +16,7 @@ This project analyzes 105,555 policy-periods from a motor insurance portfolio. T
 ## Key Findings
 
 - 18.61% of policy-periods recorded at least one claim.
+- Claim frequency was 0.395 claims per policy-period. Average claim severity was 389.05 per claim.
 - The overall loss ratio was 48.61%.
 - The highest-loss 10% of claim-bearing policy-periods accounted for 57.33% of total claim costs.
 - Vans had the highest loss ratio at 50.67%, while motorbikes had the lowest at 25.27%.
