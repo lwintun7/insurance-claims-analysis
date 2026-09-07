@@ -33,7 +33,11 @@ This project analyzes 105,555 policy-periods from a motor insurance portfolio. T
 
 ## Dataset
 
-The project uses an anonymized Spanish motor insurance portfolio dataset. The raw dataset is not included in this repository.
+This project uses the *Dataset of an actual motor vehicle insurance portfolio*, published by Josep Lledó and Jose M. Pavía and released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+The dataset contains anonymized motor insurance data from a Spanish non-life insurance company. The raw dataset is not included in this repository.
+
+Source: https://doi.org/10.17632/5cxyb5fp4f.2
 
 ## Project Structure
 
